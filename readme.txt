@@ -5,5 +5,5 @@ next learn
 <<<<<<< HEAD
 本地git与github连接成功啊啊s
 no-ff模式
-
+bug已经修复
 
